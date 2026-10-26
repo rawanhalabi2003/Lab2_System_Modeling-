@@ -4,7 +4,7 @@ Control logic for a touch-free smart garbage bin, modeled as a Stateflow state m
 
 Developed for the **Model-Based Software Design** course (Politecnico di Torino, Master's in Mechatronics Engineering), Lab 2.
 
-![Top-level model](docs/model-overview.png)
+![Top-level model](model-overview.png)
 
 ## The system
 
